@@ -1,0 +1,11 @@
+body {
+    background-color: wheat;
+
+}
+
+.bet-image {
+    background-image: url(https://media.istockphoto.com/id/184277648/photo/strategic-investment.jpg?s=1024x1024&w=is&k=20&c=nYqnWY1e2l-DJvFmXxOT_S-4g5kYUEnyxnya-EgyB8U=);
+    min-height: 80dvh;
+    background-size: cover;
+
+}
